@@ -1,0 +1,67 @@
+.bg{
+    width:100%;
+    height:600px;
+    background:url("Light-Wood-Background-Wallpaper.jpg");
+    background-size:cover;
+}
+.plan{
+    display:inline-block;
+    margin-left:20px;
+    margin-top:30px;
+    margin-right:50px;
+    background:white;
+    width:200px;
+    height:300px;
+}
+.navy-bg{
+    background:#0f466f;
+    height:150px;
+}
+.item{
+    /*margin-left:auto;
+    margin-left:auto;*/
+    width:200px;
+    margin-top:10px;
+    margin-left:25px;
+    text-align:left;
+}
+.item *{
+    padding-top: 5px ;
+    padding-bottom: 5px;
+    margin-top: 5px;
+    border-bottom: 2px black;
+}
+.tri{
+    padding-top:100px;
+    /*margin-left: :auto;
+    margin-right: auto;*/
+    text-align:center;
+}
+.free{
+    color:white;
+    padding-top:20px;
+    padding-bottom:0px;
+}
+.money{
+    color:white;
+    height:50px;
+    width:100px;
+}
+.bignum{
+    color:white;
+    font-size:60px;
+}
+.month{
+    color:white;
+}
+.label{
+    color:white;
+    border-radius:10px;
+    border: 2px solid grey;
+    padding-bottom: 20px;
+    padding-top:10px;
+    width:150px;
+    height:5px;
+    text-align:center;
+    margin-left:25px;
+}
